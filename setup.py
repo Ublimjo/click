@@ -20,6 +20,7 @@ setup(
     maintainer='Pallets team',
     maintainer_email='contact@palletsprojects.com',
     packages=['click'],
+    license='BSD',
     description='A simple wrapper around optparse for '
                 'powerful command line utilities.',
     license='BSD',
